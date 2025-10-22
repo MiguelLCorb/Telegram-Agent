@@ -33,7 +33,6 @@ A sophisticated Python application that monitors Telegram groups/channels for me
 - **Error Resilience**: Graceful error handling with detailed logging
 
 ### 🛠️ Developer-Friendly
-- **No Web Interface**: Pure command-line operation without Flask/web dependencies  
 - **Standalone Operation**: All credentials stored locally in configuration files
 - **Extensive Logging**: Detailed debug output for troubleshooting
 - **Modular Architecture**: Clean separation of concerns with dedicated modules
@@ -502,5 +501,6 @@ The result is a production-ready agent that reliably processes Telegram messages
 ## Support 💬
 
 This is a standalone application designed to work independently. All configuration is done through local files, and all data is stored locally on your machine.
+
 
 For best results, use `agent_enhanced.py` which includes all the optimizations documented above.
