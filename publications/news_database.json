@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Could not extract title",
+    "summary": "Could not extract summary",
+    "url": "https://bambulab.com/es/a1-mini/tech-specs",
+    "image": "No image available",
+    "author": "Unknown Author",
+    "date_extracted": "2025-10-22",
+    "time_extracted": "11:08:25",
+    "enhanced_by_llm": false
+  },
+  {
+    "title": "ROG Ally (2023) | Gaming Handhelds｜#playALLYourgames ｜ROG Global",
+    "summary": "Unleash your gaming with the powerful ROG Ally 2023 - with a crystal clear Full HD 120Hz display, AMD Ryzen Z1 Extreme processor and sleek design, it's perfect for all your gaming needs. Discover today!",
+    "url": "https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/spec/",
+    "image": "https://dlcdnwebimgs.asus.com/gain/E70351F2-3579-45FB-95AC-4D41DA42EF2C",
+    "author": "Unknown Author",
+    "date_extracted": "2025-10-22",
+    "time_extracted": "11:42:48",
+    "enhanced_by_llm": false
+  },
+  {
+    "summary": "Hey, enhanced agent, are you listening?",
+    "sentiment": "neutral",
+    "topics": [],
+    "importance": "medium",
+    "message_type": "other",
+    "key_words": [],
+    "enhanced_by_llm": false,
+    "original_message": "Hey, enhanced agent, are you listening?",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T09:55:29+00:00",
+    "chat_id": 4871136090
+  },
+  {
+    "summary": "My name is barabalai, and I am a new elf, and an old human",
+    "sentiment": "neutral",
+    "topics": [],
+    "importance": "medium",
+    "message_type": "other",
+    "key_words": [],
+    "enhanced_by_llm": false,
+    "original_message": "My name is barabalai, and I am a new elf, and an old human",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T10:02:33+00:00",
+    "chat_id": "4871136090"
+  },
+  {
+    "summary": "Leguim Mai is uncertain about the functionality of Open AI and wants to check it quickly.",
+    "sentiment": "negative",
+    "topics": [
+      "Open AI",
+      "functionality",
+      "technology"
+    ],
+    "importance": "medium",
+    "message_type": "discussion",
+    "key_words": [
+      "Open AI",
+      "working",
+      "check"
+    ],
+    "enhanced_by_llm": true,
+    "llm_provider": "openai",
+    "original_message": "Oh fuck, I don't know if this Open AI thing is working... let's check, quickly!",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T10:05:11+00:00",
+    "chat_id": "4871136090"
+  },
+  {
+    "summary": "The speaker believes that someone's deception is obvious.",
+    "sentiment": "negative",
+    "topics": [
+      "deception",
+      "perception",
+      "truth"
+    ],
+    "importance": "medium",
+    "message_type": "discussion",
+    "key_words": [
+      "fooling",
+      "anyone",
+      "not"
+    ],
+    "enhanced_by_llm": true,
+    "llm_provider": "openai",
+    "original_message": "Yeah, they're not fooling anyone",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T10:07:20+00:00",
+    "chat_id": "4871136090"
+  },
+  {
+    "summary": "Leguim Mai announces a new post and requests careful treatment.",
+    "sentiment": "positive",
+    "topics": [
+      "social media",
+      "content sharing"
+    ],
+    "importance": "medium",
+    "message_type": "announcement",
+    "key_words": [
+      "new post",
+      "treat",
+      "well"
+    ],
+    "enhanced_by_llm": true,
+    "llm_provider": "openai",
+    "original_message": "Okey, new post here, treat it well:",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T10:11:56+00:00",
+    "chat_id": "4871136090"
+  },
+  {
+    "url": "https://es.wikipedia.org/wiki/Hilma_af_Klint",
+    "title": "Hilma af Klint - Wikipedia, la enciclopedia libre",
+    "summary": "Hilma af Klint fue una pintora sueca pionera del arte abstracto, conocida por su trabajo innovador que exploraba la espiritualidad y el ocultismo. Su obra fue en gran parte ignorada durante su vida, pero ha ganado reconocimiento póstumo como una figura clave en la historia del arte moderno.",
+    "author": "Unknown",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hilma-af-Klint-uncropped.jpg/960px-Hilma-af-Klint-uncropped.jpg",
+    "extracted_at": "2025-10-22T10:12:48.036954+00:00",
+    "extraction_method": "web_scraping",
+    "category": "Arte",
+    "key_points": [
+      "Pionera del arte abstracto",
+      "Exploración de la espiritualidad y el ocultismo en su obra",
+      "Reconocimiento póstumo como figura clave en el arte moderno"
+    ],
+    "confidence": "high",
+    "article_type": "other",
+    "enhanced_by_llm": true,
+    "llm_provider": "openai",
+    "sender": "Leguim Mai"
+  },
+  {
+    "summary": "The message shares a link to a Wikipedia page about Hilma af Klint.",
+    "sentiment": "neutral",
+    "topics": [
+      "Hilma af Klint",
+      "art",
+      "Wikipedia"
+    ],
+    "importance": "medium",
+    "message_type": "link_share",
+    "key_words": [
+      "Hilma af Klint",
+      "Wikipedia",
+      "art"
+    ],
+    "enhanced_by_llm": true,
+    "llm_provider": "openai",
+    "original_message": "https://es.wikipedia.org/wiki/Hilma_af_Klint",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T10:12:23+00:00",
+    "chat_id": "4871136090"
+  },
+  {
+    "summary": "Leguim Mai intends to check on Roy Liechtenstein when possible.",
+    "sentiment": "neutral",
+    "topics": [
+      "Roy Liechtenstein",
+      "check-in",
+      "personal inquiry"
+    ],
+    "importance": "medium",
+    "message_type": "discussion",
+    "key_words": [
+      "check",
+      "Roy Liechtenstein",
+      "moment"
+    ],
+    "enhanced_by_llm": true,
+    "llm_provider": "openai",
+    "original_message": "I would also like to check on roy liechtenstein, when I have a moment",
+    "sender": "Leguim Mai",
+    "message_date": "2025-10-22T10:12:37+00:00",
+    "chat_id": "4871136090"
+  }
+]

@@ -1,0 +1,21 @@
+# Requirements for Telegram News Agent with LLM Integration
+# ========================================================
+# This file lists all Python packages needed to run the news agent
+
+# Core libraries for web scraping and HTML parsing
+requests==2.32.3          # For making HTTP requests to fetch web pages
+beautifulsoup4==4.12.3    # For parsing HTML and extracting article data
+
+# Telegram client library
+telethon==1.34.0          # For connecting to Telegram and monitoring messages
+
+# LLM Integration libraries
+openai==1.3.7             # OpenAI GPT API client (stable version)
+anthropic==0.8.1          # Anthropic Claude API client (stable version)
+
+# Standard library modules used:
+# - os: File and directory operations
+# - json: JSON data serialization
+# - datetime: Date and time handling
+# - zipfile: Creating ODT files (which are ZIP archives)
+# - xml.etree.ElementTree: XML processing for ODT format
