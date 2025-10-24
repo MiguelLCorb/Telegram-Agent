@@ -13,8 +13,8 @@ import os
 from datetime import datetime, timedelta
 
 # Use the same API credentials from your MCP configuration
-API_ID = "29190054"
-API_HASH = "99bc68832f17736c7d40954ffb90b027"
+API_ID = "_"
+API_HASH = "_"
 SESSION_NAME = "mcp_check_session"
 
 async def find_and_summarize_group():
@@ -135,4 +135,5 @@ def main():
     asyncio.run(find_and_summarize_group())
 
 if __name__ == "__main__":
+
     main()
